@@ -1,3 +1,7 @@
 # Demo
 
-This project looks at how to connct React with Flask
+This project looks at how to connect React with Flask
+
+## Subheader
+
+Frontend with ReactJS 
